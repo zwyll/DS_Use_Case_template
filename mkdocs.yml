@@ -1,1 +1,22 @@
-site_name: My Docs
+### Do NOT edit below this line
+###
+site_name: Susan's Fake Project
+site_description: Frontera User Guide
+site_author: Susan Lindsey
+
+theme:
+    name: readthedocs
+
+extra_css:
+  - css/extra.css
+
+markdown_extensions:
+ - toc:
+ - tables:
+
+###
+### Do NOT edit above this line
+
+nav:
+  - Notices : index.md
+  - newfile.md
