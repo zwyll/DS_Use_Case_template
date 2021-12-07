@@ -1,6 +1,12 @@
 
 /* Hideous Style Sheet */
 
+.wy-side-nav-search {background-color:#FF0055}
+.wy-nav-side.stickynav {background-color:#005500}  /* weird green */
+.wy-menu {background-color: #040545}
+.wy-menu wy-menu-vertical {background-color: #040545}
+.wy-nav-content { max-width: 100%; }
+
 h2 {
     color: #333333;
 }
@@ -21,7 +27,9 @@ h1 {
 	line-height:1.5; 
 }
 .intro-text {
-    font-style: italic;
+    font-style: bold;
+	color: maroon;
+    font-size: 1.2em;
 }
 
 code { color: maroon; white-space: nowrap; }
@@ -42,11 +50,6 @@ li.toctree-l3	{text-indent:.9px;}
 a.toctree-l1	{text-indent:0px;font-size:1.0em;font-weight:bold;color:orange;}  
 a.toctree-l2	{text-indent:10px;font-size:.8em;}  
 a.toctree-l3	{text-indent:15px;font-size:.7em;font-weight:bold;color:darkblue;}  
-
-.wy-side-nav-search {background-color:#b64e37}
-.wy-menu {background-color: #040545}
-.wy-menu wy-menu-vertical {background-color: #040545}
-.wy-nav-content { max-width: 100%; }
 
 
 /* THEME STYLE ADDITIONS */
