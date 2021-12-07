@@ -1,7 +1,7 @@
 ### Do NOT edit below this line
 ###
-site_name: Susan's Fake Project
-site_description: Frontera User Guide
+site_name: DS Use Case Template
+site_description: Design-Safe Use Case Template
 site_author: Susan Lindsey
 
 theme:
@@ -18,5 +18,4 @@ markdown_extensions:
 ### Do NOT edit above this line
 
 nav:
-  - Notices : index.md
-  - newfile.md
+  - Use Case Template : index.md
