@@ -1,6 +1,6 @@
 # Design-Safe Use Case Template
 
-<p class="intro-text">Introductory Text.  High-level overview of product. Note that all colors are configurable. A condimentum vitae sapien pellentesque habitant morbi tristique.</p>
+<p class="intro-text">Introductory Text.  High-level overview of product. A condimentum vitae sapien pellentesque habitant morbi tristique.</p>
 
 ## Background 
 
