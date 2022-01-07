@@ -20,4 +20,5 @@ markdown_extensions:
 nav:
   - Use Case Title : index.md
   
-#### ABove, change "Use Case Title" to be specific to your use case
+#### Above, change "Use Case Title" to be specific to your use case.  
+#### This title should be consitent with the top level heading in the index.md file
