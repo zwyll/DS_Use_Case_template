@@ -24,9 +24,19 @@ markdown_extensions:
 
 nav:
   - Use Cases : index.md
+  - Example : example/usecase.md
   - Use Case 1: arduino/usecase.md
-  - Use Case 2: kumar/usecase.md  
+  - Use Case 2: brandenberg/usecase.md
   - Use Case 3: dawson/usecase.md
+  - Use Case 4: haan/usecase.md
+  - Use Case 5: kareen/usecase.md
+  - Use Case 6: kumar/usecase.md
+  - Use Case 7: lowes/usecase.md
+  - Use Case 8: mosqueda/usecase.md
+  - Use Case 9: padgett/usecase.md
+  - Use Case 10: pinelli/usecase.md
+  - Use Case 11: rathje/usecase.md
+ 
   
 #### DO NOT MAKE ANY CHANGES TO THE EXAMPLE FOLDER
 #### Find the folder with your name and edit usecase.md
