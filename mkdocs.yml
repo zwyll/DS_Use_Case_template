@@ -12,13 +12,20 @@ extra_css:
 
 markdown_extensions:
  - toc:
+    permalink: "#" 
  - tables:
+ - codehilite:
+ - markdown_katex:
+    no_inline_svg: True
+    insert_fonts_css: True
 
 ####
 #### Do NOT edit above this line
 
 nav:
-  - Use Case Title : index.md
+  - Use Cases : index.md
+  - Example use case: example/usecase.md
   
-#### Above, change "Use Case Title" to be specific to your use case.  
+#### Copy the folder `example` and rename it to your specific use case.
+#### Above, change "Example use case" to be specific to your use title and location.  
 #### This title should be consitent with the top level heading in the index.md file
