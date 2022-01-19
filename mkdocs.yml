@@ -24,8 +24,9 @@ markdown_extensions:
 
 nav:
   - Use Cases : index.md
-  - Example use case: example/usecase.md
+  - Use Case 1: arduino/usecase.md
+  - Use Case 2: kumar/usecase.md  
+  - Use Case 3: dawson/usecase.md
   
 #### DO NOT MAKE ANY CHANGES TO THE EXAMPLE FOLDER
-#### Copy the folder `example` and rename it to your specific use case (no space!).
-#### Above, change "Example use case" to be specific to your use case title.
+#### Find the folder with your name and edit usecase.md
