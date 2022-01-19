@@ -26,6 +26,6 @@ nav:
   - Use Cases : index.md
   - Example use case: example/usecase.md
   
-#### Copy the folder `example` and rename it to your specific use case.
+#### DO NOT MAKE ANY CHANGES TO THE EXAMPLE FOLDER
+#### Copy the folder `example` and rename it to your specific use case (no space!).
 #### Above, change "Example use case" to be specific to your use case title.
-#### Change folder name from 'example' to a meaningful title for your use case (no spaces!).  
