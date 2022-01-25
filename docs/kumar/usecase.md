@@ -1,6 +1,6 @@
-# TITLE for Use Case Documentation Page
+# Material Point Method Use Case
 
-**Authors, Affiliations**  
+Krishna Kumar, UT Austin
 
 Introductory Text.  High-level overview of product. A condimentum vitae sapien pellentesque habitant morbi tristique.
 
