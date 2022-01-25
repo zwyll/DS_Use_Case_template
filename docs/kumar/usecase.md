@@ -6,6 +6,8 @@ Introductory Text.  High-level overview of product. A condimentum vitae sapien p
 
 ## Background 
 
+![MPM Algorithm](img/mpm-algorithm.png)
+
 ### Citation and Licensing
 
 * Please cite [AUTHORS et al. (20xx) - example of published project](https://doi.org/10.17603/ds2-3zdj-493) to acknowledge the use of any resources from this use case.
