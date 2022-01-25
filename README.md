@@ -2,11 +2,16 @@
 
 ## A guide to adding your use case project
 
-1. Fork the DS Use Case template from the GitHub [repo](https://github.com/erathje71/DS_Use_Case_template/). If prompted, select an organziation to create the fork.
+1. The PI should Fork the DS Use Case template from the GitHub [repo](https://github.com/erathje71/DS_Use_Case_template/) to their own account. If prompted, select an organziation to create the fork.
 
     ![fork](images/00-fork.png)
 
     ![forking](images/01-forking.png)
+
+    
+    The PI can later add their students as collaborators in the settings page https://github.com/<yourid>/DS_Use_Case_template/settings/access: 
+    
+    ![collaborator](images/collaborator.png)
 
 1. GitHub will create a forked repo in your user account. Note, the new repo will say it was forked from the original [https://github.com/erathje71/DS_Use_Case_template/](https://github.com/erathje71/DS_Use_Case_template/).
     ![forked-repo](images/02-forked-repo.png)
