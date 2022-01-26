@@ -110,7 +110,7 @@ The output from an OpenSeesMP-STKO analysis are provided in a number of '\*.mpco
 After the job is finished, the user can use [STKO](https://www.designsafe-ci.org/rw/workspace/#!/stko-ds-exec-01-1.0.0u1) to visualize the results in the '\*.mpco' files that are located in the archive directory. If the user would like to extract data from the GUI of STKO, they can copy and paste the data using the "Leafpad" text editor within the DS virtual machine that serves STKO.  The user can then save the text file to a folder within the user's My Data directory.
 
 <p align="center">
-    <img width="600" src="img/ost_OPENSEES_STKO.png" align="center">
+    <img width="600" src="img/Post_OPENSEES_STKO.png" align="center">
 </p>
 
 ### Example post-processing scripts using Jupyter
