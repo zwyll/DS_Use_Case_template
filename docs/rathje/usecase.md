@@ -142,20 +142,19 @@ eval "recorder Node -file $filename.txt -time -node $SoilList -dof 4 -dT $timest
 ### Example Post-processing Results
 This section shows the results from the post-processing scripts performed via the Jupyter notebook. The notebook is broken into segments with explanations of each section of code.  Users should edit the code to fit their own needs.   
  
+ **Response spectra for motions at various locations within the model**
  <p align="center">
     <img width="600" src="img/Sa.png" align="center">
-</p>
-
-**Response spectra for motions at various locations within the model**
-  
- <p align="center">
-    <img width="600" src="img/EPWP.png" align="center">
 </p>
 
 **Time history of excess pore pressure at different locations in the soil**
   
  <p align="center">
-    <img width="600" src="img/Foundation.png" align="center">
+    <img width="600" src="img/EPWP.png" align="center">
 </p>
 
 **Time history of foundation settlement and tilt**
+  
+ <p align="center">
+    <img width="600" src="img/Foundation.png" align="center">
+</p>
