@@ -2,7 +2,7 @@
 
 ## A guide to adding your use case project
 
-1. The PI should Fork the DS Use Case template from the GitHub [repo](https://github.com/erathje71/DS_Use_Case_template/) to their own account. If prompted, select an organziation to create the fork.
+1. The PI should Fork the DS Use Case template from the GitHub [repo](https://github.com/DesignSafe-CI/DS_Use_Case_template/) to their own account. If prompted, select an organziation to create the fork.
 
     ![fork](images/00-fork.png)
 
@@ -13,7 +13,7 @@
     
     ![collaborator](images/collaborator.png)
 
-1. GitHub will create a forked repo in your user account. Note, the new repo will say it was forked from the original [https://github.com/erathje71/DS_Use_Case_template/](https://github.com/erathje71/DS_Use_Case_template/).
+1. GitHub will create a forked repo in your user account. Note, the new repo will say it was forked from the original [https://github.com/DesignSafe-CI/DS_Use_Case_template/](https://github.com/DesignSafe-CI/DS_Use_Case_template/).
     ![forked-repo](images/02-forked-repo.png)
 
 1. Navigate to your use case folder, which is located in the `docs` folder. The folders are named after the PI, so find the folder with your name to edit your template. **Always check you are only editing your use case folder**.
@@ -61,7 +61,7 @@
     If there are any new changes you can fetch and merge.
     ![fetch merge](images/17-fetch-merge.png)
 
-1. Once you have completed making changes, you'll now create a Pull Request (PR) to request that your changes be merged to the main DesignSafe Use Case repo. Go to your repo on GitHub (in my case it is [https://github.com/kks32/DS_Use_Case_Template](https://github.com/kks32/DS_Use_Case_Template)). And select `Contribute`, check if it says `This branch is XX comits **ahead** of erathje71 master`, before opening a pull request:
+1. Once you have completed making changes, you'll now create a Pull Request (PR) to request that your changes be merged to the main DesignSafe Use Case repo. Go to your repo on GitHub (in my case it is [https://github.com/kks32/DS_Use_Case_Template](https://github.com/kks32/DS_Use_Case_Template)). And select `Contribute`, check if it says `This branch is XX comits **ahead** of DesignSafe-CI master`, before opening a pull request:
 
     ![Open PR](images/18-open-pr.png)
 
