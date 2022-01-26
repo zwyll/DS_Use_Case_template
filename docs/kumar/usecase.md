@@ -1,4 +1,4 @@
-# Material Point Method Use Case
+# Material Point Method High-Performance Computing Use Case
 
 Krishna Kumar, UT Austin
 
