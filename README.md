@@ -9,7 +9,7 @@
     ![forking](images/01-forking.png)
 
     
-    The PI can later add their students as collaborators in the settings page https://github.com/<yourid>/DS_Use_Case_template/settings/access: 
+    The PI can later add their students as collaborators in the settings page: 
     
     ![collaborator](images/collaborator.png)
 
