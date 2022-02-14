@@ -37,8 +37,8 @@ The use case workflow involves the following steps:
 * Save all the files (tcl script and mpco.cdata files) in a folder under the user's My Data directory within the Data Depot.
 * Alternatively, the input OpenSees-STKO model can be created on the user's local computer and all the files uploaded to a My Data folder.
 
-<img src="img/TOOLS.png" width="450"> <img src="img/VM_STKO.png" height="300" width="500">
-
+![TOOLS](img/TOOLS.png)
+![VM_STKO](img/VM_STKO.png)
 
 
 
@@ -107,9 +107,7 @@ The output from an OpenSeesMP-STKO analysis are provided in a number of '\*.mpco
 ### Visualize and extract data from STKO
 After the job is finished, the user can use [STKO](https://www.designsafe-ci.org/rw/workspace/#!/stko-ds-exec-01-1.0.0u1) to visualize the results in the '\*.mpco' files that are located in the archive directory. If the user would like to extract data from the GUI of STKO, they can copy and paste the data using the "Leafpad" text editor within the DS virtual machine that serves STKO.  The user can then save the text file to a folder within the user's My Data directory.
 
-<p align="center">
-    <img width="600" src="img/Post_OPENSEES_STKO.png" align="center">
-</p>
+![Post_OPENSEES_STKO](img/Post_OPENSEES_STKO.png)
 
 ### Example post-processing scripts using Jupyter
 
@@ -140,19 +138,12 @@ eval "recorder Node -file $filename.txt -time -node $SoilList -dof 4 -dT $timest
 ### Example Post-processing Results
 This section shows the results from the post-processing scripts performed via the Jupyter notebook. The notebook is broken into segments with explanations of each section of code.  Users should edit the code to fit their own needs.   
  
- **Response spectra for motions at various locations within the model**
- <p align="center">
-    <img width="600" src="img/Sa.png" align="center">
-</p>
+**Response spectra for motions at various locations within the model**
+![Sa](img/Sa.png)
 
 **Time history of excess pore pressure at different locations in the soil**
-  
- <p align="center">
-    <img width="600" src="img/EPWP.png" align="center">
-</p>
+![EPWP](img/EPWP.png)
 
 **Time history of foundation settlement and tilt**
-  
- <p align="center">
-    <img width="600" src="img/Foundation.png" align="center">
-</p>
+
+![Foundation](img/Foundation.png)  
