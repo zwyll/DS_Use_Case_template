@@ -2,7 +2,7 @@
 
 **Wenyang Zhang, Texas Advanced Computer Center (TACC), University of Texas, Austin**  
 
-Introductory Text.  High-level overview of product. A condimentum vitae sapien pellentesque habitant morbi tristique.
+This documentation will explain how to easily perform machine learning (ML) analysis using Jupyterhub, which has been installed on DesignSafe web portal.
 
 ## Background 
 
