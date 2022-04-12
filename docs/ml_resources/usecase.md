@@ -1,6 +1,6 @@
 # Examples for running machine learning models on DesignSafe Jupyterhub
 
-**Authors, Affiliations**  
+**Wenyang Zhang, Texas Advanced Computer Center (TACC), University of Texas, Austin**  
 
 Introductory Text.  High-level overview of product. A condimentum vitae sapien pellentesque habitant morbi tristique.
 
