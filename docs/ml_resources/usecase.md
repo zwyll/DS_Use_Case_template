@@ -2,7 +2,7 @@
 
 **Wenyang Zhang, Texas Advanced Computer Center (TACC), University of Texas, Austin**  
 
-This documentation will explain how to easily perform machine learning (ML) analysis using Jupyterhub, which has been installed on DesignSafe web portal (https://www.designsafe-ci.org).
+This documentation will explain how to easily perform machine learning (ML) analysis using Jupyterhub, which has been installed on DesignSafe web portal (https://www.designsafe-ci.org). Three ML examples with supplementary Python codes are provided: Random Forest (RF), XGBoosting and Artificial Neural Network (ANN).
 
 ## Background 
 
