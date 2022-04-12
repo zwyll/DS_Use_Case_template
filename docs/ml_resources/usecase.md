@@ -16,9 +16,9 @@ This documentation will explain how to easily perform machine learning (ML) anal
 
 ### Description 
 
-This project contains a Jupyter Notebook and python codes to run a suite of machine learning Random Forest Classifier algorithms to predict liquefaction induced lateral spreading displacement. This study is trained using data from the 2011 Christchurch earthquake in the Avon River area. The trained models can be used in the range of applicability reported in the ReadMe file. The Jupyter Notebook example files can be adapted to train any dataset. All the information are contained in the ReadMe file.
+This project uses machine learning algorithms to predict liquefaction induced lateral spreading displacement. This study is trained using data from the 2011 Christchurch earthquake in the Avon River area. The trained models can be used in the range of applicability reported in the ReadMe file. The Jupyter Notebook example files can be adapted to train any dataset. All the information are contained in the ReadMe file.
 
-[Link Example - this goes to Google](https://www.google.com)
+[Published project - PRJ-2998](https://www.designsafe-ci.org/data/browser/public/designsafe.storage.published/PRJ-2998v2)
 
 ## Header 2
 
