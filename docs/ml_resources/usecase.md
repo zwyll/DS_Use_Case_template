@@ -8,7 +8,7 @@ This documentation will explain how to easily perform machine learning (ML) anal
 
 ### Citation and Licensing
 
-* Please cite [AUTHORS et al. (20xx) - example of published project](https://doi.org/10.17603/ds2-3zdj-493) to acknowledge the use of any resources from this use case.
+* Please cite [Durante and Rathje (2021)](https://doi.org/10.1177/87552930211004613) to acknowledge the use of any resources from this use case.
 
 * Please cite [Rathje et al. (2017)](https://doi.org/10.1061/(ASCE)NH.1527-6996.0000246) to acknowledge the use of DesignSafe resources.  
 
@@ -16,7 +16,7 @@ This documentation will explain how to easily perform machine learning (ML) anal
 
 ### Description 
 
-Enim ut sem viverra aliquet.  Nisi scelerisque eu ultrices vitae auctor. Scelerisque viverra mauris in aliquam.  Ut morbi tincidunt augue interdum velit euismod in pellentesque massa. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Sed adipiscing diam donec adipiscing tristique.  In pellentesque massa placerat duis. Tortor condimentum lacinia quis vel eros donec ac. Sed velit dignissim sodales ut eu sem. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo. Quis risus sed vulputate odio ut.
+This project contains a Jupyter Notebook and python codes to run a suite of machine learning Random Forest Classifier algorithms to predict liquefaction induced lateral spreading displacement. This study is trained using data from the 2011 Christchurch earthquake in the Avon River area. The trained models can be used in the range of applicability reported in the ReadMe file. The Jupyter Notebook example files can be adapted to train any dataset. All the information are contained in the ReadMe file.
 
 [Link Example - this goes to Google](https://www.google.com)
 
